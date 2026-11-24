@@ -38,6 +38,3 @@
 <a href="https://www.linkedin.com/in/maximiliano-occhiuzzi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
-</div>
